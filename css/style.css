@@ -107,10 +107,6 @@ ul li ul{
 	.fa-list.modify{
 		display: block;
 	}
-	.container{
-		width: 100%;
-		height: auto;
-	}
 	body{
 		overflow-x:hidden;
 	}
